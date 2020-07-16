@@ -1,5 +1,5 @@
 Manage your "ghostman" web server.
-![WebMonitor.png](https://github.com/chmess/ghostman/blob/master/WebMonitor.png?raw=true)
+![WebMonitor.png](https://github.com/chmess/ghostman/blob/master/webserver/WebMonitor.png?raw=true)
 
 Step 1
 ------
